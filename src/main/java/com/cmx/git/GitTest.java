@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("春风得意");
         System.out.println("春风得意马");
         System.out.println("春风得意马蹄疾");
+        System.out.println("春风得意马蹄疾,");
     }
 }
